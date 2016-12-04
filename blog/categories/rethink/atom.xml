@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Rethink | Debug Thinking]]></title>
   <link href="http://wehave.today/blog/categories/rethink/atom.xml" rel="self"/>
   <link href="http://wehave.today/"/>
-  <updated>2016-12-04T15:44:14+08:00</updated>
+  <updated>2016-12-04T16:11:10+08:00</updated>
   <id>http://wehave.today/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,17 +18,7 @@
     <link href="http://wehave.today/blog/2016/12/04/review-2016/"/>
     <updated>2016-12-04T14:08:06+08:00</updated>
     <id>http://wehave.today/blog/2016/12/04/review-2016</id>
-    <content type="html"><![CDATA[<p>TODO
-```c c&rsquo;s code</p>
-
-<h1>include &lt;stdio.h></h1>
-
-<p>int main()
-{
-    printf(&ldquo;hello world\n&rdquo;);
-}
-<code>
-这段代码只是用来测试，</code>test```完毕。</p>
+    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
