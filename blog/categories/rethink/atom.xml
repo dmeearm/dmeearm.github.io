@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Rethink | Debug Thinking]]></title>
   <link href="http://wehave.today/blog/categories/rethink/atom.xml" rel="self"/>
   <link href="http://wehave.today/"/>
-  <updated>2016-12-04T15:39:50+08:00</updated>
+  <updated>2016-12-04T15:44:14+08:00</updated>
   <id>http://wehave.today/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -19,19 +19,16 @@
     <updated>2016-12-04T14:08:06+08:00</updated>
     <id>http://wehave.today/blog/2016/12/04/review-2016</id>
     <content type="html"><![CDATA[<p>TODO
-<figure class='code'><figcaption><span>c&rsquo;s code</p></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="o">&lt;</span><span class="n">h1</span><span class="o">&gt;</span><span class="kp">include</span> <span class="o">&amp;</span><span class="n">lt</span><span class="p">;</span><span class="n">stdio</span><span class="o">.</span><span class="n">h</span><span class="o">&gt;&lt;</span><span class="sr">/h1&gt;</span>
-</span><span class='line'>
-</span><span class='line'><span class="sr">&lt;p&gt;int main()</span>
-</span><span class='line'><span class="sr">{</span>
-</span><span class='line'><span class="sr">    printf(&amp;ldquo;hello world\n&amp;rdquo;);</span>
-</span><span class='line'><span class="sr">}</span>
-</span></code></pre></td></tr></table></div></figure></p>
+```c c&rsquo;s code</p>
+
+<h1>include &lt;stdio.h></h1>
+
+<p>int main()
+{
+    printf(&ldquo;hello world\n&rdquo;);
+}
+<code>
+这段代码只是用来测试，</code>test```完毕。</p>
 ]]></content>
   </entry>
   

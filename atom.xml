@@ -4,7 +4,7 @@
   <title><![CDATA[Debug Thinking]]></title>
   <link href="http://wehave.today/atom.xml" rel="self"/>
   <link href="http://wehave.today/"/>
-  <updated>2016-12-04T15:39:50+08:00</updated>
+  <updated>2016-12-04T15:44:14+08:00</updated>
   <id>http://wehave.today/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -32,6 +32,8 @@
 </span><span class='line'><span class="p">}</span>
 </span></code></pre></td></tr></table></div></figure>
 
+
+<p>这段代码只是用来测试，<code>test</code>完毕。</p>
 ]]></content>
   </entry>
   
