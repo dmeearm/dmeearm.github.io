@@ -4,7 +4,7 @@
   <title><![CDATA[Debug Thinking]]></title>
   <link href="http://wehave.today/atom.xml" rel="self"/>
   <link href="http://wehave.today/"/>
-  <updated>2016-12-17T13:41:20+08:00</updated>
+  <updated>2016-12-18T15:32:29+08:00</updated>
   <id>http://wehave.today/</id>
   <author>
     <name><![CDATA[Rocket]]></name>
@@ -14,7 +14,16 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Review 2016]]></title>
+    <title type="html"><![CDATA[展望一下未来]]></title>
+    <link href="http://wehave.today/blog/2016/12/17/next-year/"/>
+    <updated>2016-12-17T13:46:44+08:00</updated>
+    <id>http://wehave.today/blog/2016/12/17/next-year</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[回顾2016]]></title>
     <link href="http://wehave.today/blog/2016/12/04/review-2016/"/>
     <updated>2016-12-04T14:08:06+08:00</updated>
     <id>http://wehave.today/blog/2016/12/04/review-2016</id>
@@ -43,6 +52,7 @@
 <li><p>别人其实跟你并不熟，虽然在一个组，一个团队，一个公司很多年。所以请注意言行，话少说没坏处。</p></li>
 <li><p>中层跟基层不一样，一定要对老板表忠心。真的假的无所谓，总之要看起来是这样。在老板眼里，中层的大忌就是不忠。</p></li>
 <li><p>一切想跳槽或者离职的迹象都很难不被察觉，不要觉得自己太聪明。</p></li>
+<li><p>找工作尽量去一个公司的总部，其他城市分公司在培训，氛围，项目等各方面都有很大的劣势。</p></li>
 <li><p>人都容易记仇。修复裂痕的代价略大，而且机会较少。同事之间产生的裂痕，建议放弃。最好的方式就是让不愉快的事情少发生。</p></li>
 <li><p>挖人或者拉创业伙伴，最最重要的是，了解清楚这个人的工作观念和思维模式，别管他跟你谈人生，做大保健其他方面怎么样，这些方面不合拍的，其他的都是扯淡。</p></li>
 </ul>
