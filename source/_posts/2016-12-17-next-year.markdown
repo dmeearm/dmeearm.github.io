@@ -1,0 +1,9 @@
+---
+layout: post
+title: "展望一下未来"
+date: 2016-12-17 13:46:44 +0800
+comments: true
+categories: "rethink"
+---
+
+

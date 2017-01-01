@@ -4,8 +4,8 @@
 
 url: http://wehave.today
 title: Debug Thinking
-subtitle: 普通人做好平凡的事
-author: Your Name
+subtitle: Have Fun
+author: Rocket
 simple_search: https://www.google.com/search
 description:
 
@@ -39,6 +39,8 @@ rdiscount:
     - autolink
     - footnotes
     - smart
+
+      #pygments: true
 highlighter: pygments # default python pygments have been replaced by pygments.rb
 
 paginate: 10          # Posts per page on the blog index
