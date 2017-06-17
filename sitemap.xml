@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://wehave.today/blog/2016/12/17/next-year/</loc>
-<lastmod>2016-12-17T13:46:44+08:00</lastmod>
+<loc>http://wehave.today/blog/2017/01/08/math/</loc>
+<lastmod>2017-01-08T15:22:40+08:00</lastmod>
+</url>
+<url>
+<loc>http://wehave.today/blog/2017/01/08/morebookslist/</loc>
+<lastmod>2017-01-08T15:17:31+08:00</lastmod>
+</url>
+<url>
+<loc>http://wehave.today/blog/2017/01/02/fresh-of-front-dev/</loc>
+<lastmod>2017-01-02T16:01:21+08:00</lastmod>
+</url>
+<url>
+<loc>http://wehave.today/blog/2017/01/02/my-all-books/</loc>
+<lastmod>2017-01-02T15:51:57+08:00</lastmod>
 </url>
 <url>
 <loc>http://wehave.today/blog/2016/12/04/review-2016/</loc>
@@ -22,5 +34,11 @@
 </url>
 <url>
 <loc>http://wehave.today/blog/categories/rethink/</loc>
+</url>
+<url>
+<loc>http://wehave.today/blog/categories/life/</loc>
+</url>
+<url>
+<loc>http://wehave.today/blog/categories/web/</loc>
 </url>
 </urlset>
