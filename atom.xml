@@ -4,7 +4,7 @@
   <title><![CDATA[Debug Thinking]]></title>
   <link href="http://wehave.today/atom.xml" rel="self"/>
   <link href="http://wehave.today/"/>
-  <updated>2017-06-17T11:19:35+08:00</updated>
+  <updated>2017-06-17T11:21:24+08:00</updated>
   <id>http://wehave.today/</id>
   <author>
     <name><![CDATA[Rocket]]></name>
@@ -204,15 +204,6 @@
 
 
 <p><img src="http://wehave.today/images/nicai.jpg" width="320"></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[后端眼里的前端开发之起步]]></title>
-    <link href="http://wehave.today/blog/2017/01/02/fresh-of-front-dev/"/>
-    <updated>2017-01-02T16:01:21+08:00</updated>
-    <id>http://wehave.today/blog/2017/01/02/fresh-of-front-dev</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
